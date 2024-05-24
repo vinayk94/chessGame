@@ -1,0 +1,39 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Logs
+logs/
+*.log
+
+# Target
+target/
+
+# Compiled class files
+*.class
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Others
+*.jar
+*.war
+*.ear
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Specific to Eclipse IDE
+.settings/
+.classpath
+.project
+
+# Miscellaneous
+.vscode/
+.env
+.log
